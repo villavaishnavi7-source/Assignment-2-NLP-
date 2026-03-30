@@ -1,5 +1,5 @@
 
-# 🎭 Sentiment Analysis using Shakespeare Text
+# Sentiment Analysis using Shakespeare Text
 
 ##  Overview
 This project performs sentiment analysis on Shakespeare text using a simple rule-based NLP approach. It also includes a graphical user interface and visualization.
@@ -38,7 +38,18 @@ This project performs sentiment analysis on Shakespeare text using a simple rule
 
 ## 📊 Results
 - Successfully analyzed sentiment  
-- Displayed output in both text and graphical form  
+- Displayed output in both text and graphical form
+
+---
+
+## How to run the Project
+- prequisites required are python (version 3.7 or above)
+step 1: installing required libraries (matplotlib)
+step 2: writing the code in VS code editor( which include writing code, debugging and running it).
+step 3: entering text taken from site www.gutenberg.org and analyzing the text for sentiment analysis
+step 4: Observing results and bar graph
+
+
 
 ---
 
